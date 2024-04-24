@@ -1,0 +1,5 @@
+# Project exclude paths
+/boogle-maps/target/
+/eureka/target/
+/pricing-service/target/
+/vehicles-api/target/
